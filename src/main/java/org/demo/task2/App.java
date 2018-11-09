@@ -1,16 +1,15 @@
-package org.demo.task2;
+    package org.demo.task2;
 
-public class App
-{
-    public static void main( String[] args )
+    public class App
     {
+        public static void main( String[] args )
+        {
+            convertIntToString(5);
 
-        int someInt = 3;
-        someInt++;
+        }
 
-        String str = Integer.toString(someInt);
-        System.out.println("String is " + str);
-
+        public static void convertIntToString (int someInt){
+            String str = Integer.toString(someInt);
+            System.out.println("String is " + str);
+        }
     }
-
-}

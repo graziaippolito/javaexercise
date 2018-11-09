@@ -1,27 +1,28 @@
-package org.demo.task3;
+    package org.demo.task3;
 
-public class App
-{
-    public static void main(String[] args)
+    public class App
     {
-
-        String str = "5c";
-
-        try
+        public static void main(String[] args)
         {
-            Integer.parseInt(str);
 
-            // str is a valid integer
-            System.out.println("String converted to number " + str);
-        }
-        catch (NumberFormatException ex)
-        {
-            // str is not an integer
-            System.out.println("String not converted");
+            convertStringToInt ("5ff") ;
+
         }
 
+        public static void convertStringToInt (String someStr){
+            try
+            {
+                Integer.parseInt(someStr);
+                // someStr is a valid integer
+                System.out.println("String converted to number " + someStr);
+            }
+            catch (NumberFormatException ex)
+            {
+                // someStr is not an integer
+                System.out.println("String not converted");
+            }
+
+        }
 
     }
-
-}
 
