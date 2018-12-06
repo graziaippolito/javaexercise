@@ -4,6 +4,6 @@ public class Cat extends LivingCreatures {
 
     @Override
     public void sayHello() {
-        System.out.println("Meooooow");
+        System.out.println("meooooow");
     }
 }
