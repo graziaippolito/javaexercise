@@ -1,8 +1,6 @@
 package org.demo.lesson2.tasks.inheritance;
 
-/*
- Shortly to say, inheritance is the OOP ability that allows Java classes to be derived from other classes.
- */
+
 public class App {
 
     public static void main(String[] args) {

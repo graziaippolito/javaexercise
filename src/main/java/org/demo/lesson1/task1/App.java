@@ -1,4 +1,4 @@
-package org.demo.task1;
+package org.demo.lesson1.task1;
 
 /**
  * Hello world!

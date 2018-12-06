@@ -3,9 +3,7 @@ package org.demo.lesson2.tasks.inheritance;
 //Java class
 public class Player {
 
-    /* Class fields 'nation' and 'height'. Basically saying, Java field is a variable inside a class
-     * Field Declaration Syntax: [access_modifier] [static] [final] type nation [= initial value] ;
-     */
+
     private String nation;
     private int height;
 

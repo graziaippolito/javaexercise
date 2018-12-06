@@ -1,4 +1,4 @@
-    package org.demo.task4;
+    package org.demo.lesson1.task4;
 
     public class App
     {

@@ -4,6 +4,6 @@ public class Dog extends LivingCreatures {
 
     @Override
     public void sayHello() {
-        System.out.println("Ti amo");
+        System.out.println("woof woof");
     }
 }

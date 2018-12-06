@@ -1,9 +1,9 @@
 package org.demo.lesson2.tasks.polymorphism;
 
-public class RomanianHumanBeing extends HumanBeing {
+public class Duck extends LivingCreatures {
 
     @Override
-    public void sayILoveYou() {
-        System.out.println("Te iubesc");
+    public void sayHello() {
+        System.out.println("quack quack");
     }
 }

@@ -1,4 +1,6 @@
-package org.demo.lesson2.polymorphism;
+package org.demo.lesson2.tasks.polymorphism;
+
+
 
 /*
  Shortly to say, polymorphism in Java allows subclasses of a class to define their own unique behaviors
@@ -7,21 +9,16 @@ package org.demo.lesson2.polymorphism;
 public class App {
 
     public static void main(String[] args) {
-        BrazilianHumanBeing brazilianHumanBeing = new BrazilianHumanBeing();
-        ItalianHumanBeing italianHumanBeing = new ItalianHumanBeing();
-        RomanianHumanBeing romanianHumanBeing = new RomanianHumanBeing();
-        UkrainianHumanBeing ukrainianHumanBeing = new UkrainianHumanBeing();
+        Dog dogLivingCreature = new Dog();
+        Cat catLivingCreature = new Cat();
+        Duck duckLivingCreature = new Duck();
 
-        brazilianHumanBeing.sayILoveYou();
-        brazilianHumanBeing.smile();
 
-        italianHumanBeing.sayILoveYou();
-        italianHumanBeing.smile();
+        dogLivingCreature.sayHello();
 
-        romanianHumanBeing.sayILoveYou();
-        romanianHumanBeing.smile();
+        catLivingCreature.sayHello();
 
-        ukrainianHumanBeing.sayILoveYou();
-        ukrainianHumanBeing.smile();
+        duckLivingCreature.sayHello();
+
     }
 }

@@ -1,4 +1,4 @@
-package org.demo;
+package org.demo.lesson1;
 
 /**
  * Hello world!
