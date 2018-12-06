@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032a4b54-0fb6-4032-a9fd-b662e4bf2d01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/demo/task1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/demo/task2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/demo/task3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/demo/task4/App.java" afterDir="false" />
+    <list default="true" id="032a4b54-0fb6-4032-a9fd-b662e4bf2d01" name="Default Changelist" comment="Lesson 1 homeworks with methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson1/task4/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/LivingCreatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/LivingCreatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demo/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demo/task1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demo/task2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demo/task3/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/demo/task4/App.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,32 +32,42 @@
     <session id="-1060953914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="61" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="61" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="994" />
+          <entry key="dummy" value="13" />
+          <entry key="gitignore" value="9" />
+          <entry key="java" value="2137" />
+          <entry key="txt" value="31" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="994" />
+          <entry key="JAVA" value="2137" />
+          <entry key="PLAIN_TEXT" value="53" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -54,16 +76,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task1/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -71,51 +84,95 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task4/App.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/HumanBeing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task3/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/BrazilianHumanBeing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="66" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/org/demo/AppTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/ItalianHumanBeing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/RomanianHumanBeing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Duck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task2/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/LivingCreatures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,6 +186,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+      <find>name</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>height</replace>
+      <replace>gymnast</replace>
+      <replace>Gymnast</replace>
+      <replace>Nation</replace>
+      <replace>nation</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/org/demo</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -138,9 +211,36 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/demo/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/demo/task1/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/demo/task3/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/demo/task2/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/demo/task4/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/task3/App.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/class_structure_overview/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/class_structure_overview/Log.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/colleagues/HumanBeingChild.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/friends_and_family/HumanBeingFriend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/friends_and_family/HumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/friends_and_family/AdditionalFriend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/colleagues/HumanBeingColleague.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson1/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Engineer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Driver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Gymnast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/inheritance/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/VolleyPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/HumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/RomanianHumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/HumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/BrazilianHumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/ItalianHumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/RomanianHumanBeing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/App.java" />
       </list>
     </option>
   </component>
@@ -163,7 +263,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="62" />
+    <option name="x" value="13" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="773" />
   </component>
@@ -215,7 +316,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -224,7 +325,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -233,31 +335,9 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,8 +346,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541632583766" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544125578177" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/demo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -281,13 +368,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (3)">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.demo.task2.App" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.lesson2.polymorphism.App" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.demo.task2.*" />
+          <option name="PATTERN" value="org.demo.lesson2.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +383,11 @@
       </method>
     </configuration>
     <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.demo.task3.App" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.lesson2.tasks.polymorphism.App" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.demo.task3.*" />
+          <option name="PATTERN" value="org.demo.lesson2.tasks.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +395,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.demo.task4.App" />
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.demo.lesson2.class_structure_overview.App" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.demo.task4.*" />
+          <option name="PATTERN" value="org.demo.lesson2.class_structure_overview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.demo.lesson2.encapsulation.App" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demo.lesson2.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,11 +422,11 @@
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.demo.task1.App" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.lesson2.inheritance.App" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.demo.task1.*" />
+          <option name="PATTERN" value="org.demo.lesson2.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,34 +434,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.demo.task2 in demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.demo.lesson2.tasks.inheritance.inheritance.App" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.demo.task2.*" />
+          <option name="PATTERN" value="org.demo.lesson2.tasks.inheritance.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.demo.task2" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.App (4)" />
+      <item itemvalue="Application.App (5)" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
-      <item itemvalue="JUnit.org.demo.task2 in demo" />
       <item itemvalue="Application.App (2)" />
-      <item itemvalue="Application.App (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.org.demo.task2 in demo" />
+        <item itemvalue="Application.App (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -390,27 +489,26 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="62" width="1400" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="13" y="30" width="1400" height="773" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499002" visible="true" weight="0.2533137" />
-      <window_info id="Structure" order="1" sideWeight="0.500998" side_tool="true" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66520786" visible="true" weight="0.2569956" />
+      <window_info id="Structure" order="1" sideWeight="0.33479214" side_tool="true" weight="0.2569956" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32892805" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26431718" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38313252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20264317" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3171806" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32892805" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -423,6 +521,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 1 homeworks with methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 1 homeworks with methods" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -439,10 +541,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/.idea/lesson2.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/UkrainianHumanBeing.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson1/task2/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson1/task3/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson1/task4/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson1/task1/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/class_structure_overview/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/class_structure_overview/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/colleagues/HumanBeingChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/friends_and_family/AdditionalFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="73" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/colleagues/HumanBeingColleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/friends_and_family/HumanBeingFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/encapsulation/friends_and_family/HumanBeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/inheritance/Engineer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/inheritance/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/inheritance/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson1/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="e#113#114#0" expanded="true" />
             <element signature="e#165#166#0" expanded="true" />
@@ -450,31 +669,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task1/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/inheritance/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Gymnast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/VolleyPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/inheritance/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/ItalianHumanBeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/RomanianHumanBeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/HumanBeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/BrazilianHumanBeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/polymorphism/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task2/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task3/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="66" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/task4/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/demo/lesson2/tasks/polymorphism/LivingCreatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
