@@ -9,6 +9,7 @@ public class task2 {
     public static void main(String[] args) {
 
         Random random = new Random();
+
         //create array of 50 elements
         int numbers[]= new int[50];
 
